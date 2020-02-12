@@ -1,0 +1,6 @@
+ --trusted-host Click==7.0
+ --trusted-host Flask==1.0.2
+ --trusted-host itsdangerous==0.24
+ --trusted-host Jinja2==2.10
+ --trusted-host MarkupSafe==1.0
+ --trusted-host Werkzeug==0.14.1
