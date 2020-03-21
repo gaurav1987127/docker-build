@@ -15,4 +15,4 @@ if (__name__) == '__main__':
     app.run(host='0.0.0.0', port=8080, debug=True)
 
 db.driver=com.mysql.jdbc.Driver
-db.password=sample@123
+password=sample@123
