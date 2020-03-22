@@ -12,3 +12,8 @@ EXPOSE 8080
 
 ENTRYPOINT ["python2", "first-python-webpage.py"]
 Password=sample@12233
+
+
+aws_access_key_id=AKIAIPLCIX
+aws_secret_access_key=bsLP425yYaN1WwsWBd1BxP
+
