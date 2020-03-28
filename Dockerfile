@@ -18,3 +18,5 @@ aws_access_key_id=AKIAIPLCIX
 aws_access_key=bsLP425yYaN1WwsWBd1BxP
 
 API Key: ABCEDEFGH
+"API Key": "ABCEDEFGH"
+
