@@ -13,7 +13,13 @@ pipeline {
                     ls -all 
                 ''' 
             } 
-         
+   stage('Build Moreee') {
+            steps {
+                sh '''
+                    echo "Multiline Sheel Steps "
+                    ls -all
+                '''
+       
         } 
     } 
 } 
